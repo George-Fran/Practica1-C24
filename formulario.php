@@ -5,7 +5,7 @@
 <div class="row">
     <div class="col-12">
         <h1>Agregar</h1>
-        <form action="action.php" method="POST">
+        <form action="insertar.php" method="POST">
             <div class="form-group">
                 <label for="nombre">Nombre</label>
                 <input required name="nombre" type="text" id="nombre" placeholder="Nombre de mascota" class="form-control">
